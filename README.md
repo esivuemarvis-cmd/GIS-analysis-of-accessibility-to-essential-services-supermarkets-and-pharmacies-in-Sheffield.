@@ -1,0 +1,2 @@
+# GIS-analysis-of-accessibility-to-essential-services-supermarkets-and-pharmacies-in-Sheffield.
+This project analyzes accessibility to essential services in Sheffield, focusing on supermarkets and pharmacies. Using LSOA spatial units, the map visualizes the distribution and clustering of services across the city, highlighting areas with high service availability and potential service gaps in peripheral Neighbourhoods.
