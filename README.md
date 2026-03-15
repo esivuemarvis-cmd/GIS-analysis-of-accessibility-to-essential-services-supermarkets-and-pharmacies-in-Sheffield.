@@ -12,7 +12,9 @@ This project presents a spatial analysis of essential service accessibility in S
 
 Below is the final map produced from the spatial analysis.
 
-![Accessibility to Essential Services Map](Accessibility to essential services.jpg)
+<p align="center">
+<img src="Accessibility to essential services.jpg" width="850">
+</p>
 
 The map illustrates the spatial distribution of supermarkets and pharmacies within Sheffield. Each point represents a service location, while the shaded polygons represent the number of services located within each LSOA.
 
