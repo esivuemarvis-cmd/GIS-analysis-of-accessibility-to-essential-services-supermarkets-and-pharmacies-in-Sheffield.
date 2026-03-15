@@ -147,6 +147,8 @@ These improvements would provide a deeper understanding of how service accessibi
 
 ## Author
 
+Marvis Esivue
+
 GIS Spatial Analysis Project  
 Accessibility to Essential Services in Sheffield
 
